@@ -1,0 +1,103 @@
+
+  #biography {
+    text-align: center;
+
+  }
+    #main {
+      background-color: #d1d1e0;
+      background-repeat: no-repeat;
+      background-size: 100%;
+  
+  }
+  
+  .type_1 {
+      border: 5px solid;
+      height: 2px;
+      color: #666699;
+  }
+  
+  #title, #soustitre {
+      background-color: #f0f0f5;
+      text-align: center;
+      font-size:5vw;
+      color: #666699;
+      margin: 5rem 12rem 3rem 12rem;
+      padding:0.25rem;
+      background-size: 600px 300px;
+      background-position: center;
+      display: flexbox;
+      align-items: center;
+ 
+  }
+
+  #img-div {
+      size: 3rem;
+      float: inherit;
+      display: block;
+      padding: 5rem;
+      margin: auto;
+      width: 55%;
+      border-radius: 0.95rem;
+      box-shadow: 8px 8px 5px 5px rgba(102,102,153);
+  }
+
+  #image {
+    display: flex;
+    margin-left: auto;
+    margin-right: auto;
+    width: 65%;
+  }
+
+
+  #img-caption {
+      font-size: 1.25rem;
+      color: #f0f0f5;
+      text-align: center;
+      margin-left: auto;
+      margin-right: auto;
+  
+  }
+  #tribute-info {
+      background-color: #f0f0f5;
+      text-align: center;
+      font-size: 1.85vw;
+      color: #666699;
+      margin: 5rem 12rem 5rem 12rem;
+      padding:0.25rem;
+      background-size: 600px 300px;
+      background-position: center;
+      display: flexbox;
+      align-items: center;
+  }
+
+
+  .flexbox-container
+  {
+      float:left;
+      margin:auto; 
+      
+  } 
+  figcaption {
+      color: #666699;
+      font-size: 1.35rem;
+    padding-top: 1rem; }
+
+  #biography {
+    font-size: 3rem;
+  }
+  hr {
+    border-color: #666699;
+    border-style: groove;
+    border-radius: 1rem;
+  }
+
+  .footer {
+    background-color: #666699;
+    color: #d1d1e0;
+    padding-top: 0.25rem;
+    padding-bottom: 1rem;
+    padding-left: 1rem;
+    margin-left: 1rem;
+    margin-bottom: 4rem;
+
+  }
